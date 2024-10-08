@@ -10,7 +10,7 @@
 
 ### 4. Division: The / operator divides the first operand by the second. For example, x/y.
 
-### 5. Modulus: Returns the division remainder
+### 5. Modulus: The % Returns the division remainder
 
 ### 6. Increment: The ++ Increases the value of a variable by 1
 
